@@ -1,7 +1,5 @@
 const axios = require('axios');
 const config  = require ('./config/config.js');
-config.api.key_read_only,config.id
-
 
 
 let nh = {

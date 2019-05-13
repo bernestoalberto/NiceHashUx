@@ -1,7 +1,7 @@
 
 var express = require('express')
 var app = express();
-let nh require('./nh');
+let nh = require('./nh');
 
 
 app.get('/balance',function(req,res){
