@@ -1,11 +1,12 @@
 {
   "name": "nicehashux",
   "version": "1.0.0",
-  "description": "Noce hash UX",
-  "main": "index.js",
+  "description": "Nice hash UX",
+  "main": "server.js",
   "dependencies": {
     "axios": "^0.18.0",
     "core-js": "^2.6.5",
+    "express": "^4.16.4",
     "nicehash-api": "^1.1.4",
     "nodemon": "^1.19.0"
   },
