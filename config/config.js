@@ -1,8 +1,8 @@
 module.exports = {
 api:{
-    id: 1743289,
-    key_read_only: '69f03014-ccb5-c8b9-5266-6fbcc78b37a9',
-    key: 'bea4fc3b-52ce-0f43-de5d-acb572fb90d2',
+    id: process.env.NH_ID,
+    key_read_only:process.env.NH_KEY_RO,
+    key: process.env.NH_KEY,
     location:{
         '0':'Europe',
         '1': 'USA'
