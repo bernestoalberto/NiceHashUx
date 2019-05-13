@@ -4,8 +4,8 @@ api:{
     key_read_only:process.env.NH_KEY_RO,
     key: process.env.NH_KEY,
     location:{
-        '0':'Europe',
-        '1': 'USA'
+        'eu':'Europe',
+        'mine': 'USA'
         },
        /* algo: [
 0 : Scrypt
