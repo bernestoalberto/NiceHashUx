@@ -6,7 +6,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "core-js": "^2.6.5",
-    "nicehash-api": "^1.1.4"
+    "nicehash-api": "^1.1.4",
+    "nodemon": "^1.19.0"
   },
   "devDependencies": {},
   "scripts": {
